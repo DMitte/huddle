@@ -262,6 +262,7 @@ footer .container .col-12.social .copy{
     /*Footer*/
     footer{
         margin-top: 200px;
+        padding-bottom: 70px;
     }
     footer .container .row .col .col-12.d-flex.justify-content-center .card.text-center{
         width: 50%;
