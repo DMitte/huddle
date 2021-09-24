@@ -116,7 +116,7 @@ footer .container .row .col-12.items{
     margin-top: 65px;
 }
 footer .container .row .col-12.items svg{
-    margin-top: 15px;
+    margin-top: 40px;
     margin-bottom: 25px;
 }
 footer .container .row .col-12.items .textos img {
@@ -128,7 +128,6 @@ footer .container .row .col-12.items .textos p{
     font-size: 15px;
     float: left;
     opacity: .7;
-
 }
 
 footer .container .col-12.links ul{
@@ -156,7 +155,6 @@ footer .container .col-12.social .redes .redondo{
     padding: 9px 0px;
 }
 footer .container .col-12.social .copy{
-
     color: white;
     margin-top: 15px;
     font-size: 13px;
